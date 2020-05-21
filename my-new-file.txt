@@ -1,1 +1,1 @@
-Some new line in file 
+Some conflict here	 new line in file 
