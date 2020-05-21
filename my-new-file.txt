@@ -1,1 +1,2 @@
-Some new line in file 
+Some new line in file
+Create confglict in purpose 
